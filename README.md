@@ -26,3 +26,10 @@ Runs multiple AI agents on the same task and analyzes why they succeed or fail.
 
 1. Clone the repo
 2. Install dependencies:
+3. pip install streamlit pandas plotly google-generativeai python-dotenv requests
+4. Create a `.env` file with your Gemini API key:
+5. Run the app:
+   streamlit run app.py
+## Built by
+
+Pranjal Patil — Harbor Buildathon 2026
