@@ -20,7 +20,7 @@ Runs multiple AI agents on the same task and analyzes why they succeed or fail.
 - Plotly
 - Pandas
 - Gemini AI API
-- Harbor SDK
+- Harbor SDK (integration pending)
 
 ## How to run
 
