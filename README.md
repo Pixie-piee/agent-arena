@@ -9,9 +9,10 @@ Built for Harbor Buildathon 2026
 
 Runs multiple AI agents on the same task and analyzes why they succeed or fail.
 
-- **Leaderboard** — compare agents side by side
-- **Trajectory Viewer** — inspect every step an agent took
-- **AI Analysis** — Gemini AI diagnoses failure type, root cause, and suggests improvements
+-  Leaderboard — compare agents side by side
+-  Trajectory Viewer — inspect every step an agent took
+-  AI Analysis — Gemini AI diagnoses failure type, root cause, and suggests improvements
+-  Upload Your Own Trajectory — paste or upload JSON agent logs and receive automated failure analysis on real agent runs
 
 ## Tech Stack
 
